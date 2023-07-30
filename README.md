@@ -1,4 +1,4 @@
-# Langchain Ask PDF (Tutorial)
+# Langchain Ask PDF 
 
 
 
